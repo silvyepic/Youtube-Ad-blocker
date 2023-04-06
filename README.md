@@ -16,3 +16,4 @@ Kick those irritating ads to the curb with this nifty Chrome extension that bloc
 As of April 6 2023 it appears the extension isn't working on Microsoft Edge.
 
 [Buy me a coffee](https://cash.app/$DanielHicks06).
+
